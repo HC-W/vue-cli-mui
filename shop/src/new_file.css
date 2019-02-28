@@ -1,0 +1,24 @@
+.mui-table-view-cell{
+    padding-right: 10px !important;
+}
+.mui-table-view-chevron .mui-table-view-cell>a:not(.mui-btn) {
+    margin-right: 0;
+}
+        .readstar  {
+            float: right;
+        }
+        .readstar img {
+            width: .55rem;
+            margin-left: .2rem;
+        }
+        .newstitle {
+            font: .8rem;
+            color: #000000;
+            font-weight: bold;
+        }
+        .newscontent {
+            font: .8;
+            line-height: 1.66;
+            color: #696969;
+            font-weight: 400;
+        }
